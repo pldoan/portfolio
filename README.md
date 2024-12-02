@@ -21,7 +21,7 @@
 
 ## Project
 ### Detection of Maternal Carriers of Common α-Thalassemia Deletions from Cell-Free DNA
-[Publication](https://www.nature.com/articles/s41598-022-17718-7)
+[Link](https://www.nature.com/articles/s41598-022-17718-7)
 
 Developed a machine learning model to identify α-thalassemia carriers using cell-free DNA from routine non-invasive prenatal testing (NIPT) in a cohort of 68,885 Vietnamese women. The model achieved over 99% accuracy for detecting both common and rare genotypes, offering a scalable and cost-effective alternative to traditional methods. This work allows seamless integration with NIPT, enabling early detection, genetic counseling, and improved prenatal care in regions with high α-thalassemia prevalence.
 
