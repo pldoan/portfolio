@@ -4,15 +4,11 @@
 
 ## Education
 - PG.Dip., Data Analytics | Langara (_May 2025_)								       		
-- M.S., Software Engineering	| Université de Bordeaux (_December 2022_)	 			        		
+- M.S., Software Engineering	| Université de Bordeaux (_Dec 2022_)	 			        		
 - B.S., Management Information Systems | Ho Chi Minh University of Banking (_May 2019_)
 
 ## Work Experience
-**Machine Learning Engineer @ Gene Solutions (_November 2019 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Machine Learning Engineer @ Gene Solutions (_Nov 2019 - Present_)**
 - Conducted data collection, processing, and analysis for novel study building predictive models and evaluating it's impact of over a population of 15000 pregnant women.
 - Analyzed large-scale genomic datasets to discover relationships between genetic alterations and clinical outcomes.
 - Developed, maintained, and improved bioinformatics pipelines to process and analyze genomic data.
