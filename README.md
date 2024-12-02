@@ -1,43 +1,45 @@
-# Data Scientist
+# Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: R, Python, SQL, AWS
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- PG.Dip., Data Analytics | Langara (_May 2025_)								       		
+- M.S., Software Engineering	| Université de Bordeaux (_December 2022_)	 			        		
+- B.S., Management Information Systems | Ho Chi Minh University of Banking (_May 2019_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Machine Learning Engineer @ Gene Solutions (_November 2019 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Conducted data collection, processing, and analysis for novel study building predictive models and evaluating it's impact of over a population of 15000 pregnant women.
+- Analyzed large-scale genomic datasets to discover relationships between genetic alterations and clinical outcomes.
+- Developed, maintained, and improved bioinformatics pipelines to process and analyze genomic data.
+- Built web applications with R Shiny for interactively analyzing and visualizing genetic variants, enabling genetic counselors to assess patients’ risk for different inherited conditions quickly.
+- Automated daily tasks and increased efficiency by implementing custom scripts.
+- Collaborated on multiple projects with technicians, researchers, and doctors to analyze and interpret genomic data, providing actionable insights.
+- Completed analysis and designed documentation with data flow diagrams, structural charts, process specifications, a data dictionary, and a user manual.
+- Contributed to the preparation of research articles and technical documentation.
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Detection of Maternal Carriers of Common α-Thalassemia Deletions from Cell-Free DNA
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Developed a machine learning model to identify α-thalassemia carriers using cell-free DNA from routine non-invasive prenatal testing (NIPT) in a cohort of 68,885 Vietnamese women. The model achieved over 99% accuracy for detecting both common and rare genotypes, offering a scalable and cost-effective alternative to traditional methods. This work allows seamless integration with NIPT, enabling early detection, genetic counseling, and improved prenatal care in regions with high α-thalassemia prevalence.
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+1. Doan, Phuoc-Loc, et al. “Detection of Maternal Carriers of Common α-Thalassemia Deletions from Cell-Free DNA.” Scientific Reports, vol. 12, no. 1, Aug. 2022, p. 13581. www.nature.com, https://doi.org/10.1038/s41598-022-17718-7.
+
+2. Nguyen Hoang, Van‐Anh, et al., Doan, Phuoc-Loc, “Genetic Landscape and Personalized Tracking of Tumor Mutations in Vietnamese Women with Breast Cancer.” Molecular Oncology, vol. 17, no. 4, Apr. 2023, pp. 598–610. DOI.org (Crossref), https://doi.org/10.1002/1878-0261.13356.
+
+3. Lam, Tuan-Thanh, et al., Doan, Phuoc-Loc, “Combined Gap-Polymerase Chain Reaction and Targeted Next-Generation Sequencing Improve α- and β-Thalassemia Carrier Screening in Pregnant Women in Vietnam.” Hemoglobin, vol. 46, no. 4, July 2022, pp. 233–39. DOI.org (Crossref), https://doi.org/10.1080/03630269.2022.2096461.
+
+4. Tran, Ngoc Hieu, et al., Doan, Phuoc-Loc, “Genetic Landscape of Recessive Diseases in the Vietnamese Population from Large‐scale Clinical Exome Sequencing.” Human Mutation, vol. 42, no. 10, Oct. 2021, pp. 1229–38. DOI.org (Crossref), https://doi.org/10.1002/humu.24253.
+
+5. Nguyen, Nhi Yen, et al., Doan, Phuoc-Loc, “Developing and Validating Noninvasive Prenatal Testing for de Novo Autosomal Dominant Monogenic Diseases in Vietnam.” Personalized Medicine, vol. 20, no. 5, Sept. 2023, pp. 425–33. DOI.org (Crossref), https://doi.org/10.2217/pme-2023-0076.
+
+6. Tong, Trang Mai, et al., Doan, Phuoc-Loc, “Genetic Analysis of Vietnamese Patients with Early-Onset Alzheimer’s Disease.” International Journal of Neuroscience, vol. 132, no. 12, Dec. 2022, pp. 1190–97. DOI.org (Crossref), https://doi.org/10.1080/00207454.2020.1870974.
+
+7. Tran, Danh-Cuong, et al., Doan, Phuoc-Loc, The Genetic Landscape of Copy Number Variation in a Vietnamese Cohort of 5008 Fetuses with Clinical Anomalies during Pregnancy. 16 Jan. 2023. In Review, https://doi.org/10.21203/rs.3.rs-2410361/v1.
