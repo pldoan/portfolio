@@ -29,7 +29,7 @@
 
 Developed a machine learning model to identify α-thalassemia carriers using cell-free DNA from routine non-invasive prenatal testing (NIPT) in a cohort of 68,885 Vietnamese women. The model achieved over 99% accuracy for detecting both common and rare genotypes, offering a scalable and cost-effective alternative to traditional methods. This work allows seamless integration with NIPT, enabling early detection, genetic counseling, and improved prenatal care in regions with high α-thalassemia prevalence.
 
-![EEG Band Discovery](/assets/img/pca.png)
+![Principal component analysis of 6417 observations and their genotypes.](/assets/img/pca.png)
 
 ## Publications
 1. Doan, Phuoc-Loc, et al. “Detection of Maternal Carriers of Common α-Thalassemia Deletions from Cell-Free DNA.” Scientific Reports, vol. 12, no. 1, Aug. 2022, p. 13581. www.nature.com, https://doi.org/10.1038/s41598-022-17718-7.
