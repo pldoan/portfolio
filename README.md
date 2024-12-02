@@ -28,7 +28,7 @@ Developed a machine learning model to identify α-thalassemia carriers using cel
 ![Principal component analysis of 6417 observations and their genotypes.](/assets/img/pca.png)
 
 ## Publications
-1. Doan, Phuoc-Loc, et al. “Detection of Maternal Carriers of Common α-Thalassemia Deletions from Cell-Free DNA.” Scientific Reports, vol. 12, no. 1, Aug. 2022, p. 13581. www.nature.com, [](https://doi.org/10.1038/s41598-022-17718-7).
+1. Doan, Phuoc-Loc, et al. “Detection of Maternal Carriers of Common α-Thalassemia Deletions from Cell-Free DNA.” Scientific Reports, vol. 12, no. 1, Aug. 2022, p. 13581. www.nature.com, [link](https://doi.org/10.1038/s41598-022-17718-7).
 
 2. Nguyen Hoang, Van‐Anh, et al., Doan, Phuoc-Loc, “Genetic Landscape and Personalized Tracking of Tumor Mutations in Vietnamese Women with Breast Cancer.” Molecular Oncology, vol. 17, no. 4, Apr. 2023, pp. 598–610. DOI.org (Crossref), [](https://doi.org/10.1002/1878-0261.13356).
 
